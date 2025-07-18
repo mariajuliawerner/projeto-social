@@ -37,8 +37,10 @@ iframe#tela{
     position: relative;
     top: 80px;
     left: 22px;
-    width: 269px;
-    height: 471px;
+    width: 266.5px;
+    height: 475px;
+    padding: 0%;
+    margin: 0px;
 }
 section#redes{
     text-align: right;
